@@ -1,7 +1,7 @@
 title: ICEM 2018
 description: > # this means to ignore newlines until "baseurl:"
   Your description
-baseurl: "/example" # the subpath of your site, e.g. /blog
+baseurl: "/ICEM" # the subpath of your site, e.g. /blog
 url: "http://mjoosep.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
