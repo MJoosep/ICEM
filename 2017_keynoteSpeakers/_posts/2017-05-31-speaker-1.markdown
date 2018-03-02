@@ -3,8 +3,8 @@ title: Heli Aru-Chabilan
 name: Heli Aru-Chabilan
 subtitle: CEO of HITSA Foundation
 layout: 2017_default
-img: TBS.jpg
-thumbnail: TBD.jpg
+img: AR-170609981.jpg
+thumbnail: AR-170609981.jpg
 alt: CEO of HITSA Foundation
 description: CEO of HITSA Foundation
 ---
