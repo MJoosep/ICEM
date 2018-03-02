@@ -1,10 +1,10 @@
 ---
-title: TBA
-name: TBA
-subtitle: TBA
+title: Heli Aru-Chabilan
+name: Heli Aru-Chabilan
+subtitle: CEO of HITSA Foundation
 layout: 2017_default
 img: TBS.jpg
 thumbnail: TBD.jpg
-alt: Picture of Name
-description: TBA
+alt: CEO of HITSA Foundation
+description: CEO of HITSA Foundation
 ---
