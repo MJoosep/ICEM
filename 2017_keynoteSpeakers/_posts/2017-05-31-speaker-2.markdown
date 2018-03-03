@@ -1,10 +1,10 @@
 ---
-title: TBA
-name: TBA
-subtitle: TBA
+title: Panagiotis Kampylis
+name: Panagiotis
+subtitle: Research fellow at DG JRC, Seville
 layout: 2017_default
-img: TBS.jpg
-thumbnail: TBD.jpg
-alt: Picture of Name
-description: TBA
+img: Panagiotis.jpg
+thumbnail: Panagiotis.jpg
+alt: Panagiotis Kampylis
+description: Research fellow at DG JRC, Seville 
 ---
