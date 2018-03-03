@@ -943,3 +943,8 @@ body {
     text-align:center;
     padding-top:120px;
 }
+
+
+.remove-bullets{
+    list-style: none;
+}
